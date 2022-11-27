@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+    background-color: black;
+}
+.navbar-brand img{
+    width: 60px;
+}
+.navbar-nav{
+    align-items: center;
+}
+.navbar-nav li{
+    padding: 3px;
+}
+.se{
+    margin-top: 10px;
+}
